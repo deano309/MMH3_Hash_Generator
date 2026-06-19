@@ -39,7 +39,7 @@ except:
 root.title("32-bit MurmurHash3 Generator")
 root.resizable(False, False)
 
-ctk.CTkLabel(root, text="Input Text").pack(padx=10, pady=(10, 0))
+ctk.CTkLabel(root, text="Input String").pack(padx=10, pady=(10, 0))
 
 input_box = ctk.CTkEntry(root, width=360, height=30, corner_radius=8)
 input_box.pack(padx=10, pady=5)
