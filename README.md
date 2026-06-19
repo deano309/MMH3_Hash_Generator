@@ -1,1 +1,1 @@
-A simple GUI for creating Hashes
+A simple GUI for creating MurmurHash3 Hashes from an input string.
